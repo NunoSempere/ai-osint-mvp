@@ -50,6 +50,11 @@ Distributed under the [Attribution-NonCommercial 4.0 International](https://crea
 
 Contributions are welcome! 
 
+## What is missing from this repository
+
+- A backend that populates the postgres database
+- A client to inspect it manually rather than through LLMs
+
 ## Roadmap
 
 v0. Save tweets
