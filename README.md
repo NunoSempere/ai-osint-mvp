@@ -67,10 +67,10 @@ v1. Create pipeline
 - [x] Generate report summarizing what they are doing each day
 - [x] Chain that for a week
 
-v2. Draft report
+v2. 
 
 - [ ] Look at prior art
-  - [ ] Incorporate insights from DefenderOfBasic
+  - [x] Incorporate insights from DefenderOfBasic (incorporated in private writeup)
   - Conclusion could be "these are mostly harmless"
   - or: can't actually detect much that is interesting at this level
 - [ ] Have a pipeline for identifying more accounts 
